@@ -7,7 +7,7 @@ systematically evaluate design choices relevant to clinical risk modeling.
 ## Reports & Presentation
 
 - 📄 [Written Report](./Heart_Failure_NN_Written_Report.pdf)
-- 📊 [Initial Proposal Presentation Slides](./shoaf_CPE520_HeartF.pptx)
+- 📊 [Initial Proposal Presentation Slides](./shoaf_CPE520_HeartF.pdf)
 
 ## Experiments
 
