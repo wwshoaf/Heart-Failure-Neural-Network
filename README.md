@@ -4,6 +4,11 @@ Predicts 30-day mortality from heart failure using a multilayer perceptron (MLP)
 trained on the UCI Heart Failure Clinical Records dataset (n=299). Four experiments
 systematically evaluate design choices relevant to clinical risk modeling.
 
+## Reports & Presentation
+
+- 📄 [Written Report](./Heart_Failure_NN_Written_Report.pdf)
+- 📊 [Presentation Slides](FILENAME.pdf)
+
 ## Experiments
 
 | # | Question | Method |
